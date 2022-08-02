@@ -1,2 +1,2 @@
-# Project1
+# project.github.io
 First Project
